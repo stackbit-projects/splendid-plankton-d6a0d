@@ -6,6 +6,7 @@ sections:
     subtitle: '### This is a super-cool hero subhead.'
     image: images/avatar.png
     image_alt: Author avatar
+    title: Chris Hooper
   - title: Text
     section_id: intro
     type: section_content
