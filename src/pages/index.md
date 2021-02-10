@@ -1,5 +1,5 @@
 ---
-title: 'Chris '
+title: Chris Hooper
 sections:
   - section_id: hero
     type: section_hero
