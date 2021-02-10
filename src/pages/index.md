@@ -1,5 +1,5 @@
 ---
-title: Chris Home
+title: 'Chris '
 sections:
   - section_id: hero
     type: section_hero
